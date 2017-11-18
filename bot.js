@@ -93,7 +93,7 @@ var RetweetFromFriend = function() {
 }
 
 //Call Functions and set appropriate intervals
-//RetweetByTopic();
-//setInterval(retweet, 3600000);
-//RetweetFromFriend();
-chooseSearchTopic(TwitterSearch);
+RetweetByTopic();
+//setInterval(RetweetByTopic, 3600000);
+RetweetFromFriend();
+//setInterval(RetweetByTopic, 3600000);
