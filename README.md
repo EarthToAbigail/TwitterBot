@@ -35,6 +35,6 @@ Also, make sure to replace the `screen_name` in the RetweetFromFriend() function
 
 :loudspeaker: If you use the files in this repo as a starting point for your own TwitterBot, please send me a shoutout  on Twitter and share your creation!
 
-My Twitter username: @EarthAbigail :raising_hand:
+My Twitter username: **@EarthAbigail** :raising_hand:
 
-Take a look at Ab1gail403 in action on Twitter! @Ab1gail403 :space_invader:
+Take a look at _Ab1gail403_ in action on Twitter! **@Ab1gail403** :space_invader:
