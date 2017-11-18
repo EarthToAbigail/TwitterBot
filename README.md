@@ -37,4 +37,4 @@ Also, make sure to replace the `screen_name` in the RetweetFromFriend() function
 
 My Twitter username: **@EarthAbigail** :raising_hand:
 
-Take a look at _Ab1gail403_ in action on Twitter! **@Ab1gail403** :space_invader:
+Take a look at Ab1gail403 in action on Twitter! **@Ab1gail403** :space_invader:
