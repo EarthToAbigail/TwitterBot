@@ -2,9 +2,9 @@
 
 Ab1gail403 is a TwitterBot that I created with Node.js. It's purpose is to help me find relevant tweets to retweet on my own personal account. This simple app contains 2 functions:
 
-  RetweetByTopic: Randomly chooses a hashtag from an array of hashtags and posts a tweet containing  this hashtag.
+    * __RetweetByTopic__: Randomly chooses a hashtag from an array of hashtags and posts a tweet containing  this hashtag.
 
-  RetweetFromFriend: Retrieves a list of ids of all the people a given user is following and then retweets the latest tweet of one of these users chosen at random.
+    * __RetweetFromFriend__: Retrieves a list of ids of all the people a given user is following and then retweets the latest tweet of one of these users chosen at random.
 
 ## Dependencies :package:
 
@@ -35,6 +35,6 @@ Also, make sure to replace the `screen_name` in the RetweetFromFriend() function
 
 :loudspeaker: If you use the files in this repo as a starting point for your own TwitterBot, please send me a shoutout  on Twitter and share your creation!
 
-My Twitter username: @EarthAbigail
+My Twitter username: @EarthAbigail :raising_hand:
 
-Take a look at Ab1gail403 in action on Twitter! @Ab1gail403
+Take a look at Ab1gail403 in action on Twitter! @Ab1gail403 :space_invader:
