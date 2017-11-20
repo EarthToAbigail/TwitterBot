@@ -1,7 +1,14 @@
 var twit = require('twit');
-var config = require('./config.js');
+//var config = require('./config.js');
 var TwitterSearch = ['#technology', '#algorithm', '#algorave', '#tech', '#TechNews', '#IoT', '#arduino', '#algomech', '#Robotics'];
 var Twitter = new twit(config);
+
+var Bot = new TwitterBot({
+ consumer_key: process.env.BOT_CONSUMER_KEY,
+ consumer_secret: process.env.BOT_CONSUMER_SECRET,
+ access_token: process.env.BOT_ACCESS_TOKEN,
+ access_token_secret: process.env.BOT_ACCESS_TOKEN_SECRET
+});
 
 console.log("Ab1gail403 is booting up...");
 
